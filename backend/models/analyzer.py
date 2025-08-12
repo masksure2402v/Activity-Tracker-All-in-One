@@ -5,6 +5,7 @@ import json
 from datetime import datetime, timedelta
 from collections import defaultdict
 from config import Config
+from flask_sqlalchemy import SQLAlchemy
 
 class LogAnalyzer:
     """Analyzes app usage data from JSON files"""
@@ -316,4 +317,26 @@ class LogAnalyzer:
             grouped[app].append(line)
 
         return grouped
+    
+
+db = SQLAlchemy()
+
+class SiteVisit(db.Model):
+    __tablename__ = 'site_visits'
+
+    id = db.Column(db.Integer, primary_key=True)
+    domain = db.Column(db.String(255), nullable=False)
+    url = db.Column(db.String(1024), nullable=False)
+    start_time = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+    end_time = db.Column(db.DateTime, nullable=True)
+    created_at = db.Column(db.DateTime, default=datetime.utcnow)
+
+    def to_dict(self):
+        return {
+            "id": self.id,
+            "domain": self.domain,
+            "url": self.url,
+            "start_time": self.start_time.isoformat(),
+            "end_time": self.end_time.isoformat() if self.end_time else None
+        }
 

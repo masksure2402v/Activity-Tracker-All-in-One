@@ -1,3 +1,4 @@
+# config.py
 import os
 
 class Config:
@@ -10,7 +11,8 @@ class Config:
     
     # Data file settings
     JSON_FILE = r"C:\Users\Ujjwal\Desktop\Code\Activity tracker\activity tracker 4.0\app_usage.json"
-    
+    CHROME_JSON_FILE = r"C:\Users\Ujjwal\Desktop\Code\Activity tracker\activity tracker 4.0\chrome_usage.json"
+
     # API settings
     DEFAULT_DAYS = 30
     DEFAULT_LIMIT = 100

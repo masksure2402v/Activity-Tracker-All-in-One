@@ -7,6 +7,7 @@ from config import Config
 from routes.health import health_bp
 from routes.analytics import analytics_bp
 from routes.stats import stats_bp
+from routes.chrome_activity import chrome_bp
 
 def create_app():
     """Create and configure the Flask application"""
@@ -19,7 +20,7 @@ def create_app():
     app.register_blueprint(health_bp, url_prefix='/api')
     app.register_blueprint(analytics_bp, url_prefix='/api')
     app.register_blueprint(stats_bp, url_prefix='/api/stats')
-    
+    app.register_blueprint(chrome_bp, url_prefix='/api')
     # Error handlers
     @app.errorhandler(404)
     def not_found(error):

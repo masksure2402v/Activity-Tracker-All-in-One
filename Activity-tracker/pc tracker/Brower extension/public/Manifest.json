@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Activity Tracker",
+  "version": "1.0",
+  "description": "Tracks active tab URLs and sessions and sends them to local backend.",
+  "permissions": [
+    "tabs",
+    "storage",
+    "alarms",
+    "scripting",
+    "webNavigation"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Chrome Activity Tracker"
+  }
+}
