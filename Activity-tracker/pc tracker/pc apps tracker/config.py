@@ -5,7 +5,7 @@ class TrackerConfig:
     """Configuration settings for the activity tracker"""
     
     # JSON file path - save to specific location
-    JSON_FILE = r"C:\Users\Ujjwal\Desktop\Code\Activity tracker\activity tracker 4.0\app_usage.json"
+    JSON_FILE = r"C:\Users\Ujjwal\Documents\Tracker saved data\app_usage.json"
     
     # Minimum duration (in seconds) to log an app session
     MIN_DURATION = 1

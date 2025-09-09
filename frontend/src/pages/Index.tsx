@@ -1,6 +1,34 @@
 import { useState } from "react";
 import { DashboardHeader } from "@/components/TimeTracker/DashboardHeader";
 import { SunburstChart } from "@/components/TimeTracker/SunburstChart";
+import { StatsCard } from "@/components/TimeTracker/StatsCard"
+import { ActivityChart } from "@/components/TimeTracker/ActivityChart";
+import { AppUsageList } from "@/components/TimeTracker/AppUsageList"
+import { Clock, Target, Monitor, TrendingUp } from "lucide-react";
+
+// Mock Stats Data
+const mockStatsData = {
+  totalTime: "8", // hours
+  productiveTime: "5.5", // hours
+  mostUsedApp: "VS Code",
+  focusScore: 78,
+};
+
+// Mock Activity Data
+const mockActivityData = [
+  { name: "Work", value: 5, color: "#4ade80" },
+  { name: "Entertainment", value: 1.5, color: "#f87171" },
+  { name: "Social Media", value: 0.8, color: "#60a5fa" },
+  { name: "Other", value: 0.7, color: "#a78bfa" },
+];
+
+// Mock App Usage Data
+const mockAppUsageData = [
+  { name: "VS Code", time: 4.3, percentage: 54, category: "Development" },
+  { name: "Chrome", time: 2.2, percentage: 28, category: "Productivity" },
+  { name: "Spotify", time: 1.1, percentage: 14, category: "Entertainment" },
+  { name: "Slack", time: 0.4, percentage: 5, category: "Communication" },
+];
 
 const Index = () => {
   const [currentDate, setCurrentDate] = useState(new Date());
@@ -14,7 +42,7 @@ const Index = () => {
         />
 
         {/* Stats Overview */}
-        {/* <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <StatsCard
             title="Total Screen Time"
             value={`${mockStatsData.totalTime}h`}
@@ -42,10 +70,10 @@ const Index = () => {
             icon={TrendingUp}
             trend={{ value: 5, label: "from yesterday" }}
           />
-        </div> */}
+        </div>
 
         {/* Charts Section */}
-        {/* <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           <ActivityChart
             data={mockActivityData}
             title="Time Distribution by Category"
@@ -54,7 +82,7 @@ const Index = () => {
             data={mockAppUsageData}
             title="Top Applications"
           />
-        </div> */}
+        </div>
 
         <div className="w-full">
           <SunburstChart 

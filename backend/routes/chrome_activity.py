@@ -1,11 +1,12 @@
-# chrome_activity.py
+# routes/chrome_activity.py
 from flask import Blueprint, request, jsonify
 from datetime import datetime
 from config import Config
+from collections import defaultdict
 import json
 import os
 
-chrome_bp = Blueprint("chrome_activity", __name__)
+chrome_bp = Blueprint("/chrome_activity", __name__)
 
 os.makedirs(os.path.dirname(Config.CHROME_JSON_FILE), exist_ok=True)
 
@@ -49,12 +50,10 @@ def chrome_activity():
             # Append new sessions
             for session in data["sessions"]:
                 logs.append({
-                    "app": "chrome.exe",
                     "domain": session.get("domain"),
                     "url": session.get("url"),
                     "start_time": session.get("start_time"),
                     "end_time": session.get("end_time"),
-                    "recorded_at": datetime.utcnow().isoformat()
                 })
 
             # Save back to file
@@ -62,6 +61,43 @@ def chrome_activity():
                 json.dump(logs, f, indent=2)
 
             return jsonify({"status": "success", "saved": len(data["sessions"])}), 200
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+
+@chrome_bp.route("/<date>/chrome_activity", methods=["GET"])
+def chrome_activity_by_date(date):
+    """
+    Return Chrome extension activity grouped by domain in SunburstChart-compatible format.
+    Date format: YYYY-MM-DD
+    """
+    try:
+        if not os.path.exists(Config.CHROME_JSON_FILE):
+            return jsonify({}), 200
+
+        with open(Config.CHROME_JSON_FILE, "r", encoding="utf-8") as f:
+            try:
+                logs = json.load(f)
+            except json.JSONDecodeError:
+                logs = []
+
+        # Filter logs by requested date
+        filtered_logs = [
+            log for log in logs
+            if log.get("start_time", "").startswith(date)
+        ]
+
+        # Group by domain
+        grouped = defaultdict(list)
+        for log in filtered_logs:
+            domain = log.get("domain", "unknown-domain")
+            start = datetime.fromisoformat(log["start_time"].replace("Z", "+00:00")).strftime("%Y-%m-%d %H:%M:%S")
+            end = datetime.fromisoformat(log["end_time"].replace("Z", "+00:00")).strftime("%Y-%m-%d %H:%M:%S")
+            grouped[domain].append(f"{start} - {end}")
+
+        return jsonify(dict(grouped)), 200
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500

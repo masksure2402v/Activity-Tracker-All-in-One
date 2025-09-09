@@ -156,30 +156,30 @@ def get_merged_sessions_by_date(date):
 
 
 
-site_visits_bp = Blueprint("site_visits", __name__)
+# site_visits_bp = Blueprint("site_visits", __name__)
 
-@site_visits_bp.route("/site_visits", methods=["POST"])
-def add_site_visit():
-    data = request.get_json()
+# @site_visits_bp.route("/site_visits", methods=["POST"])
+# def add_site_visit():
+#     data = request.get_json()
 
-    if not data or "domain" not in data or "url" not in data or "start_time" not in data:
-        return jsonify({"error": "Missing required fields"}), 400
+#     if not data or "domain" not in data or "url" not in data or "start_time" not in data:
+#         return jsonify({"error": "Missing required fields"}), 400
 
-    visit = SiteVisit(
-        domain=data["domain"],
-        url=data["url"],
-        start_time=datetime.fromisoformat(data["start_time"]),
-        end_time=datetime.fromisoformat(data["end_time"]) if data.get("end_time") else None
-    )
+#     visit = SiteVisit(
+#         domain=data["domain"],
+#         url=data["url"],
+#         start_time=datetime.fromisoformat(data["start_time"]),
+#         end_time=datetime.fromisoformat(data["end_time"]) if data.get("end_time") else None
+#     )
 
-    db.session.add(visit)
-    db.session.commit()
+#     db.session.add(visit)
+#     db.session.commit()
 
-    return jsonify({"message": "Site visit logged"}), 201
+#     return jsonify({"message": "Site visit logged"}), 201
 
 
-@site_visits_bp.route("/site_visits", methods=["GET"])
-def get_site_visits():
-    visits = SiteVisit.query.order_by(SiteVisit.start_time.desc()).all()
-    return jsonify([v.to_dict() for v in visits])
+# @site_visits_bp.route("/site_visits", methods=["GET"])
+# def get_site_visits():
+#     visits = SiteVisit.query.order_by(SiteVisit.start_time.desc()).all()
+#     return jsonify([v.to_dict() for v in visits])
 

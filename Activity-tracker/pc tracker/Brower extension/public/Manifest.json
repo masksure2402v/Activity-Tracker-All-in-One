@@ -8,7 +8,9 @@
     "storage",
     "alarms",
     "scripting",
-    "webNavigation"
+    "webNavigation",
+    "notifications",
+    "windows"
   ],
   "host_permissions": [
     "<all_urls>"

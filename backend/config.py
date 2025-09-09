@@ -10,8 +10,8 @@ class Config:
     PORT = 5000
     
     # Data file settings
-    JSON_FILE = r"C:\Users\Ujjwal\Desktop\Code\Activity tracker\activity tracker 4.0\app_usage.json"
-    CHROME_JSON_FILE = r"C:\Users\Ujjwal\Desktop\Code\Activity tracker\activity tracker 4.0\chrome_usage.json"
+    JSON_FILE = r"C:\Users\Ujjwal\Documents\Tracker saved data\app_usage.json"
+    CHROME_JSON_FILE = r"C:\Users\Ujjwal\Documents\Tracker saved data\chrome_usage.json"
 
     # API settings
     DEFAULT_DAYS = 30
