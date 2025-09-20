@@ -22,8 +22,6 @@ export const useSunburstChart = (
 
     const svgSel = d3.select(svgRef.current);
     svgSel.selectAll("*").remove();
-    // allow labels to render outside the SVG bounds
-    svgSel.attr("overflow", "visible");
 
     const width = 500;
     const height = 500;
@@ -50,58 +48,62 @@ export const useSunburstChart = (
     const labelsGroup = g.append("g").attr("class", "time-labels");
 
     const placeLabels = (secondHalf: boolean) => {
-      const startHour = secondHalf ? 12 : 0;
+      const texts = secondHalf ? ["12", "15", "18", "21"] : ["00", "3", "6", "9"];
 
       // clear previous if any
-      labelsGroup.selectAll("*").remove();
+      labelsGroup.selectAll("text").remove();
 
-      const outer = radius + paddingFromEdge; // base for labels
-      const tickLength = 12; // px
-      const tickStroke = "gray";
-      const tickWidth = 2;
-      const labelOffset = tickLength + 8; // distance beyond tick for label
+      // top (index 0)
+      labelsGroup
+        .append("text")
+        .attr("class", "time-label top")
+        .attr("x", 0)
+        .attr("y", -radius + paddingFromEdge)
+        .attr("text-anchor", "middle")
+        .attr("dy", "0.35em")
+        .attr("fill", "gray")
+        .attr("font-size", "16px")
+        .style("font-weight", "bold")
+        .text(texts[0]);
 
-      // draw 12 hourly ticks and labels
-      for (let h = 0; h < 12; h++) {
-        const displayHour = (startHour + h) % 24;
-        const labelText = `${String(displayHour).padStart(2, "0")}:00`;
+      // right (index 1)
+      labelsGroup
+        .append("text")
+        .attr("class", "time-label right")
+        .attr("x", radius - paddingFromEdge)
+        .attr("y", 0)
+        .attr("text-anchor", "start")
+        .attr("dy", "0.35em")
+        .attr("fill", "gray")
+        .attr("font-size", "16px")
+        .style("font-weight", "bold")
+        .text(texts[1]);
 
-        const angle = (h / 12) * 2 * Math.PI - Math.PI / 2; // start at top
-        const xInner = Math.cos(angle) * radius;
-        const yInner = Math.sin(angle) * radius;
-        const xOuter = Math.cos(angle) * (radius + tickLength);
-        const yOuter = Math.sin(angle) * (radius + tickLength);
-        const xLabel = Math.cos(angle) * (radius + labelOffset);
-        const yLabel = Math.sin(angle) * (radius + labelOffset);
+      // bottom (index 2)
+      labelsGroup
+        .append("text")
+        .attr("class", "time-label bottom")
+        .attr("x", 0)
+        .attr("y", radius - paddingFromEdge)
+        .attr("text-anchor", "middle")
+        .attr("dy", "0.35em")
+        .attr("fill", "gray")
+        .attr("font-size", "16px")
+        .style("font-weight", "bold")
+        .text(texts[2]);
 
-        // tick
-        labelsGroup
-          .append("line")
-          .attr("class", `tick hour-tick hour-${h}`)
-          .attr("x1", xInner)
-          .attr("y1", yInner)
-          .attr("x2", xOuter)
-          .attr("y2", yOuter)
-          .attr("stroke", tickStroke)
-          .attr("stroke-width", tickWidth)
-          .attr("stroke-linecap", "round");
-
-        // label
-        const cosA = Math.cos(angle);
-        const textAnchor = Math.abs(cosA) < 0.2 ? "middle" : cosA > 0 ? "start" : "end";
-
-        labelsGroup
-          .append("text")
-          .attr("class", `time-label hour-label hour-${h}`)
-          .attr("x", xLabel)
-          .attr("y", yLabel)
-          .attr("text-anchor", textAnchor)
-          .attr("dy", "0.35em")
-          .attr("fill", "gray")
-          .attr("font-size", "16px")
-          .style("font-weight", "bold")
-          .text(labelText);
-      }
+      // left (index 3)
+      labelsGroup
+        .append("text")
+        .attr("class", "time-label left")
+        .attr("x", -radius + paddingFromEdge)
+        .attr("y", 0)
+        .attr("text-anchor", "end")
+        .attr("dy", "0.35em")
+        .attr("fill", "gray")
+        .attr("font-size", "16px")
+        .style("font-weight", "bold")
+        .text(texts[3]);
     };
 
     // initial placement based on showSecondHalf
