@@ -9,6 +9,8 @@ class Config:
     HOST = '0.0.0.0'
     PORT = 5000
     
+
+    
     # Data file settings
     JSON_FILE = r"C:\Users\Ujjwal\Documents\Tracker saved data\app_usage.json"
     CHROME_JSON_FILE = r"C:\Users\Ujjwal\Documents\Tracker saved data\chrome_usage.json"
@@ -25,8 +27,4 @@ class Config:
         'communication': ['Teams.exe', 'Slack.exe', 'Discord.exe', 'Zoom.exe'],
         'entertainment': ['spotify.exe', 'vlc.exe', 'Steam.exe', 'Games']
     }
-    
-    # CORS settings
-    CORS_ORIGINS = ['http://localhost:3000', 'http://127.0.0.1:3000',"http://localhost:8080"] 
-
     
