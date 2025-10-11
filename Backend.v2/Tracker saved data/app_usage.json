@@ -1,0 +1,4368 @@
+{
+  "2025-09-13": [
+    {
+      "start": "13:02:30",
+      "end": "13:03:07",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 37,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:03:07",
+      "end": "13:03:08",
+      "app": "chrome.exe",
+      "title": "(471) Indila - love story (orchestra) slowed + Eng sub + แปลไทย - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:03:08",
+      "end": "13:03:22",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 13,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:03:22",
+      "end": "13:03:26",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:03:26",
+      "end": "13:03:29",
+      "app": "explorer.exe",
+      "title": "Tracker saved data - File Explorer",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:03:29",
+      "end": "13:52:27",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 2939,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:52:27",
+      "end": "13:52:43",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 16,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:52:43",
+      "end": "13:52:47",
+      "app": "chrome.exe",
+      "title": "file structure - Google Search - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:52:47",
+      "end": "13:54:06",
+      "app": "chrome.exe",
+      "title": "(473) Golden Brown (Slowed Down Version) - YouTube - Google Chrome",
+      "duration": 80,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:54:06",
+      "end": "13:54:08",
+      "app": "chrome.exe",
+      "title": "(472) Headlock x Yeat prod.Venace (headshot) - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:54:08",
+      "end": "13:54:09",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:54:09",
+      "end": "13:54:13",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:54:13",
+      "end": "13:54:28",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:54:28",
+      "end": "13:55:34",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 65,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:55:34",
+      "end": "13:55:40",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:55:40",
+      "end": "13:57:04",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 84,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:04",
+      "end": "13:57:06",
+      "app": "chrome.exe",
+      "title": "(472) Headlock x Yeat prod.Venace (headshot) - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:06",
+      "end": "13:57:11",
+      "app": "chrome.exe",
+      "title": "(473) Roi-Videoclub (instrumental) (Slowed Reverb) X Chico lachowski - YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:11",
+      "end": "13:57:12",
+      "app": "chrome.exe",
+      "title": "(473) Golden Brown (Slowed Down Version) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:12",
+      "end": "13:57:42",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 30,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:42",
+      "end": "13:57:44",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:44",
+      "end": "13:57:48",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:48",
+      "end": "13:57:54",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:54",
+      "end": "13:57:57",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:57:57",
+      "end": "13:58:26",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 29,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:26",
+      "end": "13:58:31",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:31",
+      "end": "13:58:33",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:33",
+      "end": "13:58:34",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:34",
+      "end": "13:58:36",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:36",
+      "end": "13:58:47",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 11,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:47",
+      "end": "13:58:49",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:49",
+      "end": "13:58:56",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:56",
+      "end": "13:58:58",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:58:58",
+      "end": "13:59:00",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:59:00",
+      "end": "13:59:01",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "13:59:01",
+      "end": "14:10:06",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 665,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:06",
+      "end": "14:10:07",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:07",
+      "end": "14:10:19",
+      "app": "chrome.exe",
+      "title": "(473) G-Eazy & Halsey - Him & I (Official Video) - YouTube - Google Chrome",
+      "duration": 12,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:19",
+      "end": "14:10:29",
+      "app": "SearchHost.exe",
+      "title": "Search",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:29",
+      "end": "14:10:32",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:32",
+      "end": "14:10:33",
+      "app": "osk.exe",
+      "title": "On-Screen Keyboard",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:33",
+      "end": "14:10:34",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:34",
+      "end": "14:10:35",
+      "app": "ShellExperienceHost.exe",
+      "title": "Jump List for On-Screen Keyboard",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:35",
+      "end": "14:10:41",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:41",
+      "end": "14:10:43",
+      "app": "chrome.exe",
+      "title": "(473) G-Eazy & Halsey - Him & I (Official Video) - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:43",
+      "end": "14:10:44",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:44",
+      "end": "14:10:45",
+      "app": "ShellExperienceHost.exe",
+      "title": "Jump List for Microsoft Edge",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:45",
+      "end": "14:10:53",
+      "app": "chrome.exe",
+      "title": "(473) G-Eazy & Halsey - Him & I (Official Video) - YouTube - Google Chrome",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:53",
+      "end": "14:10:54",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:10:54",
+      "end": "14:11:00",
+      "app": "SearchHost.exe",
+      "title": "Search",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:00",
+      "end": "14:11:01",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:01",
+      "end": "14:11:03",
+      "app": "explorer.exe",
+      "title": "Tracker saved data - File Explorer",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:03",
+      "end": "14:11:16",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 13,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:16",
+      "end": "14:11:17",
+      "app": "explorer.exe",
+      "title": "Program Manager",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:17",
+      "end": "14:11:20",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:20",
+      "end": "14:11:23",
+      "app": "explorer.exe",
+      "title": "Program Manager",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:23",
+      "end": "14:11:26",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:26",
+      "end": "14:11:38",
+      "app": "explorer.exe",
+      "title": "Program Manager",
+      "duration": 12,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:38",
+      "end": "14:11:40",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:40",
+      "end": "14:11:44",
+      "app": "explorer.exe",
+      "title": "Program Manager",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:44",
+      "end": "14:11:46",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:46",
+      "end": "14:11:49",
+      "app": "explorer.exe",
+      "title": "Program Manager",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:49",
+      "end": "14:11:52",
+      "app": "chrome.exe",
+      "title": "(473) G-Eazy & Halsey - Him & I (Official Video) - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:52",
+      "end": "14:11:53",
+      "app": "chrome.exe",
+      "title": "(473) Headlock x Yeat prod.Venace (headshot) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:11:53",
+      "end": "14:12:01",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:12:01",
+      "end": "14:12:02",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:12:02",
+      "end": "14:12:03",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:12:03",
+      "end": "14:14:20",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 137,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:14:20",
+      "end": "14:14:21",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:14:21",
+      "end": "14:14:36",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:14:36",
+      "end": "14:14:39",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:14:39",
+      "end": "14:14:41",
+      "app": "explorer.exe",
+      "title": "Tracker saved data - File Explorer",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:14:41",
+      "end": "14:15:37",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 56,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:15:37",
+      "end": "14:15:46",
+      "app": "Code.exe",
+      "title": "config.py - Code - Visual Studio Code",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:15:46",
+      "end": "14:15:52",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:15:52",
+      "end": "14:15:56",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:15:56",
+      "end": "14:16:03",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:16:03",
+      "end": "14:16:09",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:16:09",
+      "end": "14:16:31",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 22,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:16:31",
+      "end": "14:16:49",
+      "app": "Code.exe",
+      "title": "config.py - Code - Visual Studio Code",
+      "duration": 17,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:16:49",
+      "end": "14:16:50",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:16:50",
+      "end": "14:17:50",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 60,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:17:50",
+      "end": "14:17:51",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:17:51",
+      "end": "14:17:54",
+      "app": "chrome.exe",
+      "title": "(473) The Batman ft. KxllSwxtch & Nirvana - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:17:54",
+      "end": "14:18:01",
+      "app": "chrome.exe",
+      "title": "(473) Insonamia (Deep Slowed + Reverb) - YouTube - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:18:01",
+      "end": "14:18:16",
+      "app": "chrome.exe",
+      "title": "(473) David Kushner - Daylight (Official Music Video) - YouTube - Google Chrome",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:18:16",
+      "end": "14:18:29",
+      "app": "chrome.exe",
+      "title": "(473) Skyfall || Enjoying death - YouTube - Google Chrome",
+      "duration": 13,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:18:29",
+      "end": "14:18:39",
+      "app": "chrome.exe",
+      "title": "(473) Young and Beautiful but it was edited by me (extended magical version) - YouTube - Google Chrome",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:18:39",
+      "end": "14:18:52",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 13,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:18:52",
+      "end": "14:19:30",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 38,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:19:30",
+      "end": "14:19:56",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 26,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:19:56",
+      "end": "14:20:02",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:20:02",
+      "end": "14:20:03",
+      "app": "chrome.exe",
+      "title": "(473) Young and Beautiful but it was edited by me (extended magical version) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:20:03",
+      "end": "14:20:14",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 11,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:20:14",
+      "end": "14:20:17",
+      "app": "chrome.exe",
+      "title": "(473) Young and Beautiful but it was edited by me (extended magical version) - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:20:17",
+      "end": "14:21:23",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 66,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:21:23",
+      "end": "14:21:24",
+      "app": "chrome.exe",
+      "title": "(473) Young and Beautiful but it was edited by me (extended magical version) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:21:24",
+      "end": "14:21:51",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 27,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:21:51",
+      "end": "14:21:58",
+      "app": "chrome.exe",
+      "title": "DevTools - chatgpt.com/c/68c51d76-66b0-8322-9c63-6ad95fd90a9e",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:21:58",
+      "end": "14:21:59",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:21:59",
+      "end": "14:23:03",
+      "app": "chrome.exe",
+      "title": "DevTools - chatgpt.com/c/68c51d76-66b0-8322-9c63-6ad95fd90a9e",
+      "duration": 64,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:23:03",
+      "end": "14:23:31",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 28,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:23:31",
+      "end": "14:23:49",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 18,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:23:49",
+      "end": "14:23:50",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:23:50",
+      "end": "14:23:51",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:23:51",
+      "end": "14:23:52",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:23:52",
+      "end": "14:23:53",
+      "app": "chrome.exe",
+      "title": "(473) Young and Beautiful but it was edited by me (extended magical version) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:23:53",
+      "end": "14:24:58",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 65,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:24:58",
+      "end": "14:25:00",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:25:00",
+      "end": "14:25:03",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:25:03",
+      "end": "14:25:15",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 12,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:25:15",
+      "end": "14:25:27",
+      "app": "chrome.exe",
+      "title": "(473) brooklyn baby - lana del rey (slowed + extremely reverbed) - YouTube - Google Chrome",
+      "duration": 12,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:25:27",
+      "end": "14:25:55",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 28,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:25:55",
+      "end": "14:26:21",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 25,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:26:21",
+      "end": "14:26:29",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:26:29",
+      "end": "14:26:31",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:26:31",
+      "end": "14:26:41",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:26:41",
+      "end": "14:26:43",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:26:43",
+      "end": "14:29:14",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 151,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:29:14",
+      "end": "14:29:15",
+      "app": "chrome.exe",
+      "title": "DevTools - chatgpt.com/c/68c51d76-66b0-8322-9c63-6ad95fd90a9e",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:29:15",
+      "end": "14:29:16",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:29:16",
+      "end": "14:29:17",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:29:17",
+      "end": "14:29:20",
+      "app": "chrome.exe",
+      "title": "DevTools - chatgpt.com/c/68c51d76-66b0-8322-9c63-6ad95fd90a9e",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:29:20",
+      "end": "14:29:21",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:29:21",
+      "end": "14:29:52",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 31,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:29:52",
+      "end": "14:30:08",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 16,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:30:08",
+      "end": "14:30:18",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:30:18",
+      "end": "14:30:34",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:30:34",
+      "end": "14:30:35",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:30:35",
+      "end": "14:31:18",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 43,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:31:18",
+      "end": "14:32:07",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 49,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:32:07",
+      "end": "14:32:08",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:32:08",
+      "end": "14:32:53",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 44,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:32:53",
+      "end": "14:32:59",
+      "app": "chrome.exe",
+      "title": "(473) O serpent heart, hid with a flowering face! - YouTube - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:32:59",
+      "end": "14:33:26",
+      "app": "chrome.exe",
+      "title": "(473) Indila - Dernière Danse (Clip Officiel) - YouTube - Google Chrome",
+      "duration": 27,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:33:26",
+      "end": "14:33:28",
+      "app": "chrome.exe",
+      "title": "(473) Headlock x Yeat prod.Venace (headshot) - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:33:28",
+      "end": "14:33:30",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:33:30",
+      "end": "14:33:48",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 18,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:33:48",
+      "end": "14:34:32",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 43,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:34:32",
+      "end": "14:34:33",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000 - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:34:33",
+      "end": "14:34:40",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:34:40",
+      "end": "14:34:44",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:34:44",
+      "end": "14:34:49",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:34:49",
+      "end": "14:34:52",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:34:52",
+      "end": "14:35:21",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 29,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:35:21",
+      "end": "14:35:25",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:35:25",
+      "end": "14:35:46",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 21,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:35:46",
+      "end": "14:35:51",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:35:51",
+      "end": "14:35:58",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:35:58",
+      "end": "14:35:59",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:35:59",
+      "end": "14:36:06",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:06",
+      "end": "14:36:15",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:15",
+      "end": "14:36:17",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:17",
+      "end": "14:36:26",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:26",
+      "end": "14:36:32",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:32",
+      "end": "14:36:42",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:42",
+      "end": "14:36:48",
+      "app": "chrome.exe",
+      "title": "404 Not Found - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:48",
+      "end": "14:36:55",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:55",
+      "end": "14:36:57",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:36:57",
+      "end": "14:37:04",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:37:04",
+      "end": "14:37:06",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:37:06",
+      "end": "14:37:20",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:37:20",
+      "end": "14:37:24",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:37:24",
+      "end": "14:38:16",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 51,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:38:16",
+      "end": "14:38:31",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:38:31",
+      "end": "14:39:07",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 36,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:07",
+      "end": "14:39:21",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:21",
+      "end": "14:39:22",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:22",
+      "end": "14:39:23",
+      "app": "chrome.exe",
+      "title": "(473) Calvin Harris - Outside ft. Ellie Goulding (slowed + reverb) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:23",
+      "end": "14:39:24",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:24",
+      "end": "14:39:25",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:25",
+      "end": "14:39:26",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:26",
+      "end": "14:39:29",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:29",
+      "end": "14:39:33",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:33",
+      "end": "14:39:35",
+      "app": "chrome.exe",
+      "title": "AttributeError: 'str' object has no attribute 'exists' // Werkzeug Debugger - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:35",
+      "end": "14:39:59",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 24,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:39:59",
+      "end": "14:40:00",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:40:00",
+      "end": "14:40:03",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:40:03",
+      "end": "14:40:13",
+      "app": "chrome.exe",
+      "title": "(473) Calvin Harris - Outside ft. Ellie Goulding (slowed + reverb) - YouTube - Google Chrome",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:40:13",
+      "end": "14:40:29",
+      "app": "chrome.exe",
+      "title": "(473) Lose My Mind - F1 | Sonny Hayes | 4K - YouTube - Google Chrome",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:40:29",
+      "end": "14:40:40",
+      "app": "chrome.exe",
+      "title": "(473) Kids - YouTube - Google Chrome",
+      "duration": 11,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:40:40",
+      "end": "14:40:51",
+      "app": "chrome.exe",
+      "title": "(473) Goth (Slowed + Reverb) - YouTube - Google Chrome",
+      "duration": 11,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:40:51",
+      "end": "14:40:59",
+      "app": "chrome.exe",
+      "title": "(473) bloody mary - lady gaga | ending part looped |slowed and reverbed - YouTube - Google Chrome",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:40:59",
+      "end": "14:41:26",
+      "app": "chrome.exe",
+      "title": "(473) MONTAGEM VOIS (SLOWED) - YouTube - Google Chrome",
+      "duration": 27,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:41:26",
+      "end": "14:41:31",
+      "app": "chrome.exe",
+      "title": "(473) ✦˖*°࿐ a fantasy playlist ☾⋆* - YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:41:31",
+      "end": "14:42:05",
+      "app": "chrome.exe",
+      "title": "(473) Interstellar theme song - video - YouTube - Google Chrome",
+      "duration": 33,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:05",
+      "end": "14:42:10",
+      "app": "chrome.exe",
+      "title": "(473) love story (best part) - YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:10",
+      "end": "14:42:14",
+      "app": "chrome.exe",
+      "title": "(473) La Casa de Papel | My Life Is Going On - - Cecilia Krull (Vídeo Oficial) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:14",
+      "end": "14:42:17",
+      "app": "chrome.exe",
+      "title": "(473) AURORA - Runaway - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:17",
+      "end": "14:42:20",
+      "app": "chrome.exe",
+      "title": "(473) KALEO - Way Down We Go (Official Music Video) - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:20",
+      "end": "14:42:29",
+      "app": "chrome.exe",
+      "title": "(473) Jaymes Young - Infinity [Visualizer] - YouTube - Google Chrome",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:29",
+      "end": "14:42:30",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:30",
+      "end": "14:42:31",
+      "app": "chrome.exe",
+      "title": "(473) Jaymes Young - Infinity [Visualizer] - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:31",
+      "end": "14:42:32",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:32",
+      "end": "14:42:50",
+      "app": "chrome.exe",
+      "title": "(473) Jaymes Young - Infinity [Visualizer] - YouTube - Google Chrome",
+      "duration": 18,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:50",
+      "end": "14:42:51",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:51",
+      "end": "14:42:58",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:42:58",
+      "end": "14:43:02",
+      "app": "chrome.exe",
+      "title": "(473) Jaymes Young - Infinity [Visualizer] - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:02",
+      "end": "14:43:07",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:07",
+      "end": "14:43:08",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:08",
+      "end": "14:43:14",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:14",
+      "end": "14:43:28",
+      "app": "Code.exe",
+      "title": "config.py - Code - Visual Studio Code",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:28",
+      "end": "14:43:33",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:33",
+      "end": "14:43:35",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:35",
+      "end": "14:43:37",
+      "app": "chrome.exe",
+      "title": "(473) Jaymes Young - Infinity [Visualizer] - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:37",
+      "end": "14:43:38",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:38",
+      "end": "14:43:52",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:52",
+      "end": "14:43:54",
+      "app": "Code.exe",
+      "title": "config.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:54",
+      "end": "14:43:55",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:43:55",
+      "end": "14:44:28",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 33,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:44:28",
+      "end": "14:45:05",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 37,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:45:05",
+      "end": "14:45:07",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:45:07",
+      "end": "14:45:59",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 51,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:45:59",
+      "end": "14:46:02",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:02",
+      "end": "14:46:25",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 23,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:25",
+      "end": "14:46:30",
+      "app": "chrome.exe",
+      "title": "(473) The Weeknd - Blinding Lights (Official Audio) - YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:30",
+      "end": "14:46:34",
+      "app": "chrome.exe",
+      "title": "(473) Kenya Grace - Strangers (Official Lyric Video) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:34",
+      "end": "14:46:38",
+      "app": "chrome.exe",
+      "title": "(473) Happy Nation || Ace of Base (Slowed & Reverb) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:38",
+      "end": "14:46:41",
+      "app": "chrome.exe",
+      "title": "(473) ABBA - lay all your love on me (Slowed reverb) [Reupload] - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:41",
+      "end": "14:46:45",
+      "app": "chrome.exe",
+      "title": "(473) Somewhere only we know.. 💝🌹 (SLOWED TO PERFECTION) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:45",
+      "end": "14:46:49",
+      "app": "chrome.exe",
+      "title": "(473) Ghost - Mary On A Cross (Official Music Video) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:49",
+      "end": "14:46:52",
+      "app": "chrome.exe",
+      "title": "(473) I Wanna Be Yours - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:46:52",
+      "end": "14:47:02",
+      "app": "chrome.exe",
+      "title": "(473) Ghost - Mary On A Cross (Official Music Video) - YouTube - Google Chrome",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:47:02",
+      "end": "14:47:09",
+      "app": "chrome.exe",
+      "title": "(473) I Wanna Be Yours - YouTube - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:47:09",
+      "end": "14:47:53",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 44,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:47:53",
+      "end": "14:48:04",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 11,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:48:04",
+      "end": "14:48:28",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 24,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:48:28",
+      "end": "14:48:49",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 21,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:48:49",
+      "end": "14:49:26",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 36,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:49:26",
+      "end": "14:49:28",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:49:28",
+      "end": "14:49:49",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 21,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:49:49",
+      "end": "14:49:53",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:49:53",
+      "end": "14:50:55",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 61,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:50:55",
+      "end": "14:51:49",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 54,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:51:49",
+      "end": "14:51:50",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:51:50",
+      "end": "14:51:53",
+      "app": "chrome.exe",
+      "title": "(473) Sabrina Carpenter - Espresso 💓 (slowed & reverb) - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:51:53",
+      "end": "14:51:57",
+      "app": "chrome.exe",
+      "title": "(473) Soap&Skin - Me And The Devil (Lyrics) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:51:57",
+      "end": "14:52:04",
+      "app": "chrome.exe",
+      "title": "(473) Beggin' - Maneskin (Guitar Cover) - YouTube - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:52:04",
+      "end": "14:52:08",
+      "app": "chrome.exe",
+      "title": "(473) Isabel LaRosa - i'm yours (Lyrics) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:52:08",
+      "end": "14:52:35",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 27,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:52:35",
+      "end": "14:52:40",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:52:40",
+      "end": "14:53:38",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 59,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:53:38",
+      "end": "14:53:39",
+      "app": "chrome.exe",
+      "title": "(473) Isabel LaRosa - i'm yours (Lyrics) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:53:39",
+      "end": "14:53:41",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:53:41",
+      "end": "14:54:03",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 22,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:54:03",
+      "end": "14:54:05",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:54:05",
+      "end": "14:54:38",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 32,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:54:38",
+      "end": "14:54:59",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 21,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:54:59",
+      "end": "14:55:00",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:55:00",
+      "end": "14:56:06",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 67,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:56:06",
+      "end": "14:56:09",
+      "app": "chrome.exe",
+      "title": "(473) Isabel LaRosa - i'm yours (Lyrics) - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:56:09",
+      "end": "14:56:25",
+      "app": "chrome.exe",
+      "title": "(473) Melanie Martinez - Play Date [Official Lyric Video] - YouTube - Google Chrome",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:56:25",
+      "end": "14:56:46",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 21,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:56:46",
+      "end": "14:57:31",
+      "app": "chrome.exe",
+      "title": "(473) Melanie Martinez - Play Date [Official Lyric Video] - YouTube - Google Chrome",
+      "duration": 45,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:57:31",
+      "end": "14:57:33",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:57:33",
+      "end": "14:57:34",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:57:34",
+      "end": "14:57:35",
+      "app": "chrome.exe",
+      "title": "New Tab - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:57:35",
+      "end": "14:57:36",
+      "app": "chrome.exe",
+      "title": "(473) Headlock x Yeat prod.Venace (headshot) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:57:36",
+      "end": "14:57:38",
+      "app": "chrome.exe",
+      "title": "(473) Melanie Martinez - Play Date [Official Lyric Video] - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:57:38",
+      "end": "14:57:40",
+      "app": "chrome.exe",
+      "title": "New Tab - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "14:57:40",
+      "end": "15:00:22",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 162,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:00:22",
+      "end": "15:00:24",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:00:24",
+      "end": "15:12:24",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 720,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:12:24",
+      "end": "15:12:25",
+      "app": "chrome.exe",
+      "title": "Consumer Ki Technology (@consumerkitechnology) • Instagram photos and videos - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:12:25",
+      "end": "15:24:25",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 721,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:24:25",
+      "end": "15:24:27",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:24:27",
+      "end": "15:24:41",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 13,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:24:41",
+      "end": "15:24:44",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:24:44",
+      "end": "15:24:54",
+      "app": "chrome.exe",
+      "title": "(473) Headlock x Yeat prod.Venace (headshot) - YouTube - Google Chrome",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:24:54",
+      "end": "15:25:08",
+      "app": "chrome.exe",
+      "title": "(473) YEAT - HEADSHOT [PROD. VENACE] - YouTube - Google Chrome",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:25:08",
+      "end": "15:25:56",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 48,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:25:56",
+      "end": "15:26:42",
+      "app": "Code.exe",
+      "title": "AppUsageList.tsx - Code - Visual Studio Code",
+      "duration": 45,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:26:42",
+      "end": "15:26:43",
+      "app": "chrome.exe",
+      "title": "(473) YEAT - HEADSHOT [PROD. VENACE] - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:26:43",
+      "end": "15:27:11",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 28,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:11",
+      "end": "15:27:12",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:12",
+      "end": "15:27:14",
+      "app": "chrome.exe",
+      "title": "New Tab - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:14",
+      "end": "15:27:15",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:15",
+      "end": "15:27:20",
+      "app": "chrome.exe",
+      "title": "(473) YEAT - HEADSHOT [PROD. VENACE] - YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:20",
+      "end": "15:27:26",
+      "app": "chrome.exe",
+      "title": "(473) starly - LONOWN( ULTRA SLOWED + REVERB) - YouTube - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:26",
+      "end": "15:27:34",
+      "app": "chrome.exe",
+      "title": "(473) Melanie Martinez - Play Date [Official Lyric Video] - YouTube - Google Chrome",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:34",
+      "end": "15:27:38",
+      "app": "chrome.exe",
+      "title": "(473) why mona - Wannabe (Lyrics) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:38",
+      "end": "15:27:44",
+      "app": "chrome.exe",
+      "title": "(473) Lana Del Rey - Cinnamon Girl (Lyrics) (slowed & reverb) - YouTube - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:44",
+      "end": "15:27:48",
+      "app": "chrome.exe",
+      "title": "(473) Moth To A Flame x After Hours - The weeknd (Tiktok Mashup) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:27:48",
+      "end": "15:28:27",
+      "app": "chrome.exe",
+      "title": "(473) Michael Jackson - Billie Jean (Official Video) - YouTube - Google Chrome",
+      "duration": 38,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:28:27",
+      "end": "15:28:28",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:28:28",
+      "end": "15:28:29",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:28:29",
+      "end": "15:28:30",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:28:30",
+      "end": "15:28:31",
+      "app": "chrome.exe",
+      "title": "YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:28:31",
+      "end": "15:28:45",
+      "app": "chrome.exe",
+      "title": "(473) YouTube - Google Chrome",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:28:45",
+      "end": "15:28:46",
+      "app": "chrome.exe",
+      "title": "you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:28:46",
+      "end": "15:32:51",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 245,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:32:51",
+      "end": "15:32:54",
+      "app": "ShellExperienceHost.exe",
+      "title": "Quick settings",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:32:54",
+      "end": "15:35:35",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 160,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:35:35",
+      "end": "15:35:36",
+      "app": "Code.exe",
+      "title": "AppUsageList.tsx - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:35:36",
+      "end": "15:35:43",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:35:43",
+      "end": "15:35:46",
+      "app": "explorer.exe",
+      "title": "Program Manager",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:35:46",
+      "end": "15:35:52",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:35:52",
+      "end": "15:36:00",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:36:00",
+      "end": "15:36:17",
+      "app": "claude.exe",
+      "title": "Claude",
+      "duration": 17,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:36:17",
+      "end": "15:36:57",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 39,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:36:57",
+      "end": "15:36:58",
+      "app": "chrome.exe",
+      "title": "Untitled - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:36:58",
+      "end": "15:37:13",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:37:13",
+      "end": "15:37:26",
+      "app": "chrome.exe",
+      "title": "Docker Desktop: The #1 Containerization Tool for Developers | Docker - Google Chrome",
+      "duration": 13,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:37:26",
+      "end": "15:38:03",
+      "app": "chrome.exe",
+      "title": "Docker: Accelerated Container Application Development - Google Chrome",
+      "duration": 37,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:38:03",
+      "end": "15:38:07",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:38:07",
+      "end": "15:38:29",
+      "app": "chrome.exe",
+      "title": "Docker Desktop: The #1 Containerization Tool for Developers | Docker - Google Chrome",
+      "duration": 22,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:38:29",
+      "end": "15:38:57",
+      "app": "chrome.exe",
+      "title": "Docker: Accelerated Container Application Development - Google Chrome",
+      "duration": 27,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:38:57",
+      "end": "15:38:59",
+      "app": "chrome.exe",
+      "title": "Backend code integration - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:38:59",
+      "end": "15:39:18",
+      "app": "chrome.exe",
+      "title": "ChatGPT - Google Chrome",
+      "duration": 19,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:39:18",
+      "end": "15:39:24",
+      "app": "chrome.exe",
+      "title": "Docker Desktop: The #1 Containerization Tool for Developers | Docker - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:39:24",
+      "end": "15:39:43",
+      "app": "chrome.exe",
+      "title": "ChatGPT - Google Chrome",
+      "duration": 19,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:39:43",
+      "end": "15:40:56",
+      "app": "chrome.exe",
+      "title": "Download arm64 amd64 meaning - Google Chrome",
+      "duration": 73,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:40:56",
+      "end": "15:41:01",
+      "app": "chrome.exe",
+      "title": "Docker: Accelerated Container Application Development - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:01",
+      "end": "15:41:07",
+      "app": "chrome.exe",
+      "title": "Save As",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:07",
+      "end": "15:41:08",
+      "app": "chrome.exe",
+      "title": "Docker: Accelerated Container Application Development - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:08",
+      "end": "15:41:09",
+      "app": "chrome.exe",
+      "title": "Recent download history",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:09",
+      "end": "15:41:12",
+      "app": "chrome.exe",
+      "title": "Download history - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:12",
+      "end": "15:41:14",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:14",
+      "end": "15:41:16",
+      "app": "explorer.exe",
+      "title": "Captures - File Explorer",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:16",
+      "end": "15:41:19",
+      "app": "explorer.exe",
+      "title": "This PC - File Explorer",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:19",
+      "end": "15:41:20",
+      "app": "chrome.exe",
+      "title": "Download history - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:20",
+      "end": "15:41:21",
+      "app": "chrome.exe",
+      "title": "(473) YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:21",
+      "end": "15:41:22",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:22",
+      "end": "15:41:23",
+      "app": "chrome.exe",
+      "title": "Download arm64 amd64 meaning - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:23",
+      "end": "15:41:24",
+      "app": "chrome.exe",
+      "title": "(473) Michael Jackson - Billie Jean (Official Video) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:41:24",
+      "end": "15:49:33",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 489,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:33",
+      "end": "15:49:34",
+      "app": "explorer.exe",
+      "title": "Downloads - File Explorer",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:34",
+      "end": "15:49:35",
+      "app": "explorer.exe",
+      "title": "Window Dialog",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:35",
+      "end": "15:49:42",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:42",
+      "end": "15:49:45",
+      "app": "Docker Desktop Installer.exe",
+      "title": "Installing Docker Desktop 4.46.0 (204649)",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:45",
+      "end": "15:49:48",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:48",
+      "end": "15:49:49",
+      "app": "Docker Desktop Installer.exe",
+      "title": "Installing Docker Desktop 4.46.0 (204649)",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:49",
+      "end": "15:49:51",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:49:51",
+      "end": "15:50:41",
+      "app": "Docker Desktop Installer.exe",
+      "title": "Installing Docker Desktop 4.46.0 (204649)",
+      "duration": 49,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:50:41",
+      "end": "15:50:42",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:50:42",
+      "end": "15:50:43",
+      "app": "Docker Desktop Installer.exe",
+      "title": "Installing Docker Desktop 4.46.0 (204649)",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:50:43",
+      "end": "15:53:17",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 154,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:53:17",
+      "end": "15:53:31",
+      "app": "chrome.exe",
+      "title": "New Tab - Google Chrome",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:53:31",
+      "end": "15:53:35",
+      "app": "chrome.exe",
+      "title": "toggl track download - Google Search - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:53:35",
+      "end": "15:53:36",
+      "app": "chrome.exe",
+      "title": "toggl.com/track/toggl-desktop/ - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:53:36",
+      "end": "15:54:01",
+      "app": "chrome.exe",
+      "title": "FREE Desktop Time Tracker [Windows & Mac] | Toggl Track - Google Chrome",
+      "duration": 25,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:54:01",
+      "end": "15:54:02",
+      "app": "chrome.exe",
+      "title": "Sign up - Try Toggl Track for free | Toggl Track - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:54:02",
+      "end": "15:54:07",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:54:07",
+      "end": "15:54:08",
+      "app": "chrome.exe",
+      "title": "Sign up - Try Toggl Track for free | Toggl Track - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:54:08",
+      "end": "15:56:59",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 170,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:56:59",
+      "end": "15:57:00",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:00",
+      "end": "15:57:09",
+      "app": "Docker Desktop Installer.exe",
+      "title": "Installing Docker Desktop 4.46.0 (204649)",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:09",
+      "end": "15:57:17",
+      "app": "csrss.exe",
+      "title": "Windows",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:17",
+      "end": "15:57:23",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:23",
+      "end": "15:57:27",
+      "app": "claude.exe",
+      "title": "Claude",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:27",
+      "end": "15:57:28",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:28",
+      "end": "15:57:29",
+      "app": "Code.exe",
+      "title": "AppUsageList.tsx - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:29",
+      "end": "15:57:31",
+      "app": "explorer.exe",
+      "title": "Tracker saved data - File Explorer",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:31",
+      "end": "15:57:32",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:32",
+      "end": "15:57:35",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:35",
+      "end": "15:57:36",
+      "app": "chrome.exe",
+      "title": "Sign up - Try Toggl Track for free | Toggl Track - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "15:57:36",
+      "end": "16:06:29",
+      "app": "chrome.exe",
+      "title": "(473) you need to learn MCP RIGHT NOW!! (Model Context Protocol) - YouTube - Google Chrome",
+      "duration": 533,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:06:29",
+      "end": "16:06:32",
+      "app": "chrome.exe",
+      "title": "Sign up - Try Toggl Track for free | Toggl Track - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:06:32",
+      "end": "16:06:43",
+      "app": "chrome.exe",
+      "title": "(473) YouTube - Google Chrome",
+      "duration": 11,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:06:43",
+      "end": "16:06:44",
+      "app": "chrome.exe",
+      "title": "Untitled - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:06:44",
+      "end": "16:06:46",
+      "app": "chrome.exe",
+      "title": "She’s cute. She’s fluffy. She’s OFF LIMITS. 🚫💕 #fyp #foryou #cat #cats - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:06:46",
+      "end": "16:07:43",
+      "app": "chrome.exe",
+      "title": "(474) She’s cute. She’s fluffy. She’s OFF LIMITS. 🚫💕 #fyp #foryou #cat #cats - YouTube - Google Chrome",
+      "duration": 56,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:07:43",
+      "end": "16:09:24",
+      "app": "chrome.exe",
+      "title": "(474) शरीर नहीं, चेतना || आचार्य प्रशांत - YouTube - Google Chrome",
+      "duration": 101,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:09:24",
+      "end": "16:09:55",
+      "app": "chrome.exe",
+      "title": "(474) Why Farmers are always in trouble? - YouTube - Google Chrome",
+      "duration": 31,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:09:55",
+      "end": "16:11:17",
+      "app": "chrome.exe",
+      "title": "(474) THIS IS WHY I WILL NEVER GET A CAT - YouTube - Google Chrome",
+      "duration": 83,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:11:17",
+      "end": "16:11:29",
+      "app": "chrome.exe",
+      "title": "(474) Difficult to show expressions in carvings in Belur #beluru #ytshorts #shotoniphone #shorts - YouTube - Google Chrome",
+      "duration": 12,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:11:29",
+      "end": "16:12:10",
+      "app": "chrome.exe",
+      "title": "(474) Tony Was Rage Baiting A God 😭 | Iron Man Edit | Song - AL NACER! #ironman #edit #shorts - YouTube - Google Chrome",
+      "duration": 40,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:12:10",
+      "end": "16:13:10",
+      "app": "chrome.exe",
+      "title": "(474) Computer mouse maze race just how mentally taxing is it?#knowledge #usa🇺🇸 #science - YouTube - Google Chrome",
+      "duration": 60,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:13:10",
+      "end": "16:14:11",
+      "app": "chrome.exe",
+      "title": "(474) “Emotionally stable capybara.”#shorts #animal #capybara #cute - YouTube - Google Chrome",
+      "duration": 60,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:14:11",
+      "end": "16:15:33",
+      "app": "chrome.exe",
+      "title": "(474) बुद्ध का संघर्ष || आचार्य प्रशांत - YouTube - Google Chrome",
+      "duration": 83,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:15:33",
+      "end": "16:16:23",
+      "app": "chrome.exe",
+      "title": "(474) bro needs a strong lawyer 😭🤣 #trending #funny #viral #funnyvideo #animals #explore #love #memes - YouTube - Google Chrome",
+      "duration": 49,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:16:23",
+      "end": "16:16:56",
+      "app": "chrome.exe",
+      "title": "(474) This kitty is a really tricky 🥰 #shorts #cat #catlovers - YouTube - Google Chrome",
+      "duration": 33,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:16:56",
+      "end": "16:17:19",
+      "app": "chrome.exe",
+      "title": "(474) Michio Kaku on Alan Turing's Legacy - YouTube - Google Chrome",
+      "duration": 23,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:17:19",
+      "end": "16:18:36",
+      "app": "chrome.exe",
+      "title": "(474) don't be a minimum guy, - YouTube - Google Chrome",
+      "duration": 76,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:18:36",
+      "end": "16:18:52",
+      "app": "chrome.exe",
+      "title": "(474) Do nada ele foi teletransportado para o God of War😂 #GamesMemes #godofwar #brasil #games #memes - YouTube - Google Chrome",
+      "duration": 16,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:18:52",
+      "end": "16:19:25",
+      "app": "chrome.exe",
+      "title": "(474) TikTok Saved His Life 🙏 - YouTube - Google Chrome",
+      "duration": 33,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:19:25",
+      "end": "16:20:18",
+      "app": "chrome.exe",
+      "title": "(474) “Wolverine Transformation ☠️👿” | Slxughter - Fragment(Slowed) #wolverine #shorts #edit - YouTube - Google Chrome",
+      "duration": 53,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:20:18",
+      "end": "16:21:14",
+      "app": "chrome.exe",
+      "title": "(474) स्वाद के लिए ये सब क्यों? || आचार्य प्रशांत - YouTube - Google Chrome",
+      "duration": 55,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:21:14",
+      "end": "16:21:25",
+      "app": "chrome.exe",
+      "title": "(474) The Cat Saved Him But At What Cost? | Nine Lives | Kamin - Emin & Jony (slowed) #edit #shorts - YouTube - Google Chrome",
+      "duration": 11,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:21:25",
+      "end": "16:22:42",
+      "app": "chrome.exe",
+      "title": "(474) Explaining Warzone to my girlfriend... #gaming #gamerlife #warzone #couplescomedy #animation - YouTube - Google Chrome",
+      "duration": 78,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:22:42",
+      "end": "16:23:50",
+      "app": "chrome.exe",
+      "title": "(474) How Mom dog protects vs Dad ☠️ | #edit #newyork #usa - YouTube - Google Chrome",
+      "duration": 68,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:23:50",
+      "end": "16:24:41",
+      "app": "chrome.exe",
+      "title": "(474) This Was Marvel's Peak 🔥 | Avengers Infinity War | Song - AL NACER! #infinitywar #edit #shorts - YouTube - Google Chrome",
+      "duration": 51,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:24:41",
+      "end": "16:25:13",
+      "app": "chrome.exe",
+      "title": "(474) Bruh this can’t be real 😭🤚#fxyoeditz - YouTube - Google Chrome",
+      "duration": 31,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:25:13",
+      "end": "16:25:32",
+      "app": "chrome.exe",
+      "title": "(474) DON'T CHECK THE SOUND 😭😭 - YouTube - Google Chrome",
+      "duration": 19,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:25:32",
+      "end": "16:25:41",
+      "app": "chrome.exe",
+      "title": "(474) how chess players are made - YouTube - Google Chrome",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:25:41",
+      "end": "16:25:42",
+      "app": "chrome.exe",
+      "title": "(474) 12 September 2025 - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:25:42",
+      "end": "16:26:13",
+      "app": "chrome.exe",
+      "title": "(474) #mrcrazy - YouTube - Google Chrome",
+      "duration": 31,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:26:13",
+      "end": "16:27:10",
+      "app": "chrome.exe",
+      "title": "(474) Cat and Crow arguing #adoreble #funnypets #funny #petvideos #pets #funnyanimal #cute #shorts #animal - YouTube - Google Chrome",
+      "duration": 56,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:27:10",
+      "end": "16:27:35",
+      "app": "chrome.exe",
+      "title": "(474) Andrew Spiderman Moves in Real Life Vs Movies Pt.2 ☠️ #shorts - YouTube - Google Chrome",
+      "duration": 25,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:27:35",
+      "end": "16:27:54",
+      "app": "chrome.exe",
+      "title": "(474) Bhagavad Gita in Hindi Adhyay 11 Shlok 14 #bhagavadgita - YouTube - Google Chrome",
+      "duration": 19,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:27:54",
+      "end": "16:28:32",
+      "app": "chrome.exe",
+      "title": "(474) Frogs are hilarious 😂 - YouTube - Google Chrome",
+      "duration": 38,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:28:32",
+      "end": "16:29:06",
+      "app": "chrome.exe",
+      "title": "(474) If Minecraft was Realistic!😱 #minecraft #minecraftmemes - YouTube - Google Chrome",
+      "duration": 34,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:29:06",
+      "end": "16:29:59",
+      "app": "chrome.exe",
+      "title": "(474) This is a jackpot! 💰😲 #movie #edit #shorts - YouTube - Google Chrome",
+      "duration": 53,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:29:59",
+      "end": "16:30:25",
+      "app": "chrome.exe",
+      "title": "(474) The Darkest Day In INDIAN History 😔 | @IAmBuddha #prakhargupta #vivekagnihotri #podcast - YouTube - Google Chrome",
+      "duration": 26,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:30:25",
+      "end": "16:30:26",
+      "app": "chrome.exe",
+      "title": "(474) This is a jackpot! 💰😲 #movie #edit #shorts - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:30:26",
+      "end": "16:31:01",
+      "app": "chrome.exe",
+      "title": "(474) The Darkest Day In INDIAN History 😔 | @IAmBuddha #prakhargupta #vivekagnihotri #podcast - YouTube - Google Chrome",
+      "duration": 35,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:31:01",
+      "end": "16:31:06",
+      "app": "chrome.exe",
+      "title": "(474) Never compare yourself with other's #shorts#trendingshorts - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:31:06",
+      "end": "16:31:21",
+      "app": "chrome.exe",
+      "title": "(474) #mrcrazy - YouTube - Google Chrome",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:31:21",
+      "end": "16:31:37",
+      "app": "chrome.exe",
+      "title": "(474) फक़ीर ने ठुकराई गद्दी || आचार्य प्रशांत - YouTube - Google Chrome",
+      "duration": 16,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:31:37",
+      "end": "16:31:42",
+      "app": "Code.exe",
+      "title": "AppUsageList.tsx - Code - Visual Studio Code",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:31:42",
+      "end": "16:31:43",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:31:43",
+      "end": "16:31:45",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "16:31:45",
+      "end": "16:31:46",
+      "app": "Code.exe",
+      "title": "app_usage.json - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    }
+  ],
+  "2025-09-15": [
+    {
+      "start": "22:45:20",
+      "end": "22:45:43",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 23,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:45:43",
+      "end": "22:45:53",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:45:53",
+      "end": "22:45:55",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:45:55",
+      "end": "22:45:56",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:45:56",
+      "end": "22:46:01",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:01",
+      "end": "22:46:02",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:02",
+      "end": "22:46:03",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:03",
+      "end": "22:46:04",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:04",
+      "end": "22:46:08",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:08",
+      "end": "22:46:30",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/2025-09-13/top-applications - Google Chrome",
+      "duration": 22,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:30",
+      "end": "22:46:34",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/2025-09-14/top-applications - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:34",
+      "end": "22:46:36",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/2025-09-13/top-applications - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:36",
+      "end": "22:46:42",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:42",
+      "end": "22:46:43",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:43",
+      "end": "22:46:44",
+      "app": "chrome.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:46:44",
+      "end": "22:49:44",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 179,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:49:44",
+      "end": "22:49:46",
+      "app": "Code.exe",
+      "title": "main.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:49:46",
+      "end": "22:49:55",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:49:55",
+      "end": "22:50:29",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 34,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:50:29",
+      "end": "22:50:31",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:50:31",
+      "end": "22:50:46",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:50:46",
+      "end": "22:51:28",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 42,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:51:28",
+      "end": "22:51:29",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:51:29",
+      "end": "22:52:14",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 44,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:52:14",
+      "end": "22:52:24",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 10,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:52:24",
+      "end": "22:52:52",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 28,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:52:52",
+      "end": "22:52:54",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:52:54",
+      "end": "22:53:09",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 15,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:09",
+      "end": "22:53:14",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:14",
+      "end": "22:53:15",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:15",
+      "end": "22:53:16",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:16",
+      "end": "22:53:17",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:17",
+      "end": "22:53:20",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:20",
+      "end": "22:53:24",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:24",
+      "end": "22:53:30",
+      "app": "chrome.exe",
+      "title": "Remove category from code - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:30",
+      "end": "22:53:33",
+      "app": "chrome.exe",
+      "title": "ChatGPT - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:33",
+      "end": "22:53:36",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:36",
+      "end": "22:53:43",
+      "app": "chrome.exe",
+      "title": "ChatGPT - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:43",
+      "end": "22:53:45",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:45",
+      "end": "22:53:48",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:53:48",
+      "end": "22:54:08",
+      "app": "chrome.exe",
+      "title": "ChatGPT - Google Chrome",
+      "duration": 20,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:08",
+      "end": "22:54:11",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:11",
+      "end": "22:54:13",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:13",
+      "end": "22:54:17",
+      "app": "chrome.exe",
+      "title": "ChatGPT - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:17",
+      "end": "22:54:24",
+      "app": "chrome.exe",
+      "title": "Code not working debugging - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:24",
+      "end": "22:54:49",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 25,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:49",
+      "end": "22:54:54",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/2025-09-13/top-applications - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:54",
+      "end": "22:54:55",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:54:55",
+      "end": "22:55:09",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 14,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:09",
+      "end": "22:55:10",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/2025-09-13/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:10",
+      "end": "22:55:23",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 13,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:23",
+      "end": "22:55:25",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:25",
+      "end": "22:55:30",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:30",
+      "end": "22:55:31",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:31",
+      "end": "22:55:32",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:32",
+      "end": "22:55:33",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:33",
+      "end": "22:55:34",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:34",
+      "end": "22:55:35",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:35",
+      "end": "22:55:36",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:36",
+      "end": "22:55:37",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/2025-09-13/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:37",
+      "end": "22:55:38",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:38",
+      "end": "22:55:44",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:44",
+      "end": "22:55:47",
+      "app": "Code.exe",
+      "title": "analyzer.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:47",
+      "end": "22:55:56",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:56",
+      "end": "22:55:57",
+      "app": "Code.exe",
+      "title": "AppUsageList.tsx - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:55:57",
+      "end": "22:56:04",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:56:04",
+      "end": "22:56:07",
+      "app": "Code.exe",
+      "title": "analytics.py - Code - Visual Studio Code",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:56:07",
+      "end": "22:56:26",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 19,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:56:26",
+      "end": "22:57:10",
+      "app": "Code.exe",
+      "title": "SunburstChart.tsx - Code - Visual Studio Code",
+      "duration": 44,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:57:10",
+      "end": "22:57:11",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:57:11",
+      "end": "22:57:13",
+      "app": "Code.exe",
+      "title": "AppUsageList.tsx - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:57:13",
+      "end": "22:58:05",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 51,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:58:05",
+      "end": "22:58:07",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:58:07",
+      "end": "22:59:27",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 81,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:59:27",
+      "end": "22:59:30",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:59:30",
+      "end": "22:59:31",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "22:59:31",
+      "end": "23:00:02",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 31,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:00:02",
+      "end": "23:00:09",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:00:09",
+      "end": "23:00:18",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 9,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:00:18",
+      "end": "23:00:58",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 40,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:00:58",
+      "end": "23:01:00",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:01:00",
+      "end": "23:01:42",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 42,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:01:42",
+      "end": "23:02:14",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 31,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:02:14",
+      "end": "23:03:49",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 96,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:03:49",
+      "end": "23:03:50",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:03:50",
+      "end": "23:03:51",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:03:51",
+      "end": "23:03:53",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:03:53",
+      "end": "23:03:54",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:03:54",
+      "end": "23:09:33",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 339,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:09:33",
+      "end": "23:09:34",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:09:34",
+      "end": "23:10:02",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 28,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:02",
+      "end": "23:10:03",
+      "app": "chrome.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:03",
+      "end": "23:10:04",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:04",
+      "end": "23:10:05",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:05",
+      "end": "23:10:06",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:06",
+      "end": "23:10:07",
+      "app": "chrome.exe",
+      "title": "(65) Your BRAIN Is Misleading You...But Why ? ( Revealed In Experiments) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:07",
+      "end": "23:10:08",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:08",
+      "end": "23:10:09",
+      "app": "chrome.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:09",
+      "end": "23:10:14",
+      "app": "chrome.exe",
+      "title": "YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:14",
+      "end": "23:10:43",
+      "app": "chrome.exe",
+      "title": "(16) YouTube - Google Chrome",
+      "duration": 28,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:43",
+      "end": "23:10:44",
+      "app": "chrome.exe",
+      "title": "Untitled - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:10:44",
+      "end": "23:12:26",
+      "app": "chrome.exe",
+      "title": "(16) YouTube - Google Chrome",
+      "duration": 103,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:12:26",
+      "end": "23:12:32",
+      "app": "chrome.exe",
+      "title": "YouTube - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:12:32",
+      "end": "23:13:03",
+      "app": "chrome.exe",
+      "title": "Bannerman .30-06 Mosin POV firing - YouTube - Google Chrome",
+      "duration": 30,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:13:03",
+      "end": "23:13:21",
+      "app": "chrome.exe",
+      "title": "The Last of Us 2 PS5 - Best Kills 8 ( Grounded ) | 4k 60FPS - YouTube - Google Chrome",
+      "duration": 18,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:13:21",
+      "end": "23:13:25",
+      "app": "chrome.exe",
+      "title": "Why Beerbiceps is Struggling to make a Comeback 😰 - YouTube - Google Chrome",
+      "duration": 4,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:13:25",
+      "end": "23:13:27",
+      "app": "chrome.exe",
+      "title": "Pakistan MOST EMBARRASSING Moment! 😭💀| Sourav Joshi PARODY, Great Khali, India Vs PAK News, SRK | - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:13:27",
+      "end": "23:20:20",
+      "app": "chrome.exe",
+      "title": "Why Beerbiceps is Struggling to make a Comeback 😰 - YouTube - Google Chrome",
+      "duration": 413,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:20:20",
+      "end": "23:26:32",
+      "app": "chrome.exe",
+      "title": "Pakistan MOST EMBARRASSING Moment! 😭💀| Sourav Joshi PARODY, Great Khali, India Vs PAK News, SRK | - YouTube - Google Chrome",
+      "duration": 373,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:26:32",
+      "end": "23:26:38",
+      "app": "chrome.exe",
+      "title": "YouTube - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:26:38",
+      "end": "23:26:39",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:26:39",
+      "end": "23:26:41",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:26:41",
+      "end": "23:26:46",
+      "app": "chrome.exe",
+      "title": "New Tab - Google Chrome",
+      "duration": 5,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:26:46",
+      "end": "23:26:49",
+      "app": "chrome.exe",
+      "title": "hindilinks4u.yachts - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:26:49",
+      "end": "23:27:10",
+      "app": "chrome.exe",
+      "title": "hindilinks4u – Watch Bollywood Hindi Movies Online,Watch Latest Hindi Full Movies,hindilinks4u app,hindilinks4u website,hindilinks proxy,Hindilinks4u - hindilinks4u – Watch Free Movies and TV Shows Online « hindilinks4u - Google Chrome",
+      "duration": 21,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:10",
+      "end": "23:27:11",
+      "app": "chrome.exe",
+      "title": "google.com/search?q=hindilinks4u&sourceid=chrome&ie=UTF-8 - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:11",
+      "end": "23:27:35",
+      "app": "chrome.exe",
+      "title": "hindilinks4u - Google Search - Google Chrome",
+      "duration": 24,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:35",
+      "end": "23:27:36",
+      "app": "chrome.exe",
+      "title": "hindilinks4u – Watch Bollywood Hindi Movies Online,Watch Latest Hindi Full Movies,hindilinks4u app,hindilinks4u website,hindilinks proxy,Hindilinks4u - hindilinks4u – Watch Free Movies and TV Shows Online « hindilinks4u - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:36",
+      "end": "23:27:43",
+      "app": "chrome.exe",
+      "title": "hindilinks4u - Google Search - Google Chrome",
+      "duration": 7,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:43",
+      "end": "23:27:46",
+      "app": "chrome.exe",
+      "title": "hindilinks4u – Watch Bollywood Hindi Movies Online,Watch Latest Hindi Full Movies,hindilinks4u app,hindilinks4u website,hindilinks proxy,Hindilinks4u - hindilinks4u – Watch Free Movies and TV Shows Online « hindilinks4u - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:46",
+      "end": "23:27:47",
+      "app": "chrome.exe",
+      "title": "hindilinks4u - Google Search - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:47",
+      "end": "23:27:48",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:48",
+      "end": "23:27:50",
+      "app": "chrome.exe",
+      "title": "(65) Your BRAIN Is Misleading You...But Why ? ( Revealed In Experiments) - YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:50",
+      "end": "23:27:51",
+      "app": "chrome.exe",
+      "title": "Spotify – Liked Songs - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:51",
+      "end": "23:27:52",
+      "app": "chrome.exe",
+      "title": "Debugging Flask route - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:52",
+      "end": "23:27:53",
+      "app": "chrome.exe",
+      "title": "(65) Your BRAIN Is Misleading You...But Why ? ( Revealed In Experiments) - YouTube - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:53",
+      "end": "23:27:54",
+      "app": "chrome.exe",
+      "title": "focus-tracker-gui - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:54",
+      "end": "23:27:56",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:56",
+      "end": "23:27:57",
+      "app": "chrome.exe",
+      "title": "hindilinks4u – Watch Bollywood Hindi Movies Online,Watch Latest Hindi Full Movies,hindilinks4u app,hindilinks4u website,hindilinks proxy,Hindilinks4u - hindilinks4u – Watch Free Movies and TV Shows Online « hindilinks4u - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:57",
+      "end": "23:27:59",
+      "app": "chrome.exe",
+      "title": "hindilinks4u - Google Search - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:27:59",
+      "end": "23:28:00",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:28:00",
+      "end": "23:28:06",
+      "app": "chrome.exe",
+      "title": "New Tab - Google Chrome",
+      "duration": 6,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "23:28:06",
+      "end": "01:01:13",
+      "app": "chrome.exe",
+      "title": "Home - NetMirror - Google Chrome",
+      "duration": 5587,
+      "end_reason": "app_switch"
+    }
+  ],
+  "2025-09-16": [
+    {
+      "start": "01:01:13",
+      "end": "01:01:16",
+      "app": "chrome.exe",
+      "title": "New Tab - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:01:16",
+      "end": "01:02:11",
+      "app": "chrome.exe",
+      "title": "Home - NetMirror - Google Chrome",
+      "duration": 55,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:02:11",
+      "end": "01:02:14",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 3,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:02:14",
+      "end": "01:02:15",
+      "app": "explorer.exe",
+      "title": "",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:02:15",
+      "end": "01:02:23",
+      "app": "ShellExperienceHost.exe",
+      "title": "Quick settings",
+      "duration": 8,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:02:23",
+      "end": "01:04:08",
+      "app": "chrome.exe",
+      "title": "Instagram - Google Chrome",
+      "duration": 105,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:04:08",
+      "end": "01:04:09",
+      "app": "chrome.exe",
+      "title": "127.0.0.1:5000/api/top-applications - Google Chrome",
+      "duration": 1,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:04:09",
+      "end": "01:04:11",
+      "app": "chrome.exe",
+      "title": "YouTube - Google Chrome",
+      "duration": 2,
+      "end_reason": "app_switch"
+    },
+    {
+      "start": "01:04:11",
+      "end": "01:04:12",
+      "app": "Code.exe",
+      "title": "Index.tsx - Code - Visual Studio Code",
+      "duration": 1,
+      "end_reason": "app_switch"
+    }
+  ]
+}

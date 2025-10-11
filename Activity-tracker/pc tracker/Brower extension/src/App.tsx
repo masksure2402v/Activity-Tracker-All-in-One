@@ -1,35 +1,55 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React, { useState, useEffect } from "react";
 
-function App() {
-  const [count, setCount] = useState(0)
+const ChromeProfileSelector: React.FC = () => {
+  const [selectedProfile, setSelectedProfile] = useState<number | null>(null);
+  const [savedProfile, setSavedProfile] = useState<number | null>(null);
+
+  useEffect(() => {
+    // Get stored profile from chrome.storage.local
+    chrome.storage.local.get("chrome_profile", (res: { chrome_profile?: string }) => {
+      if (res.chrome_profile) setSavedProfile(Number(res.chrome_profile));
+    });
+  }, []);
+
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    if (!selectedProfile) return alert("Select one option");
+    chrome.storage.local.set({ chrome_profile: selectedProfile.toString() }, () => {
+      setSavedProfile(selectedProfile);
+      setTimeout(() => window.close(), 700);
+    });
+  };
+
+  if (savedProfile) {
+    return <p>Profile {savedProfile} already set.</p>;
+  }
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+    <div style={{ fontFamily: "Arial", padding: "20px" }}>
+      <h3>Select Chrome Profile</h3>
+      <form onSubmit={handleSubmit}>
+        {Array.from({ length: 10 }, (_, i) => (
+          <div key={i} style={{ margin: "8px 0" }}>
+            <label>
+              <input
+                type="radio"
+                name="profile"
+                value={i + 1}
+                checked={selectedProfile === i + 1}
+                onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                  setSelectedProfile(Number(e.target.value))
+                }
+              />{" "}
+              Chrome Profile {i + 1}
+            </label>
+          </div>
+        ))}
+        <button type="submit" style={{ marginTop: "10px", padding: "6px 12px" }}>
+          Save
         </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+      </form>
+    </div>
+  );
+};
 
-export default App
+export default ChromeProfileSelector;

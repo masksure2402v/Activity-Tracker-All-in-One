@@ -1,5 +1,5 @@
 # routes/analytics.py
-from flask import Blueprint, jsonify
+from flask import Blueprint, jsonify, request
 from models.top_applications import get_top_applications
 from models.screen_time import get_total_minutes
 from models.sunBurst_Chart import LogAnalyzer
